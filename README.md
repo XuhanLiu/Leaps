@@ -1,2 +1,2 @@
 # Leaps
-Ligands' eye attention at Protein Similarity
+Ligands' Eye Attention on Protein Similarity
